@@ -8,6 +8,9 @@ Review Video: https://www.youtube.com/watch?v=l8Ee8bL7bH8
 Render Gallery: https://imgur.com/a/AUimohz
 
 ### Technical Specifications ###
- 
- Gasket Polyurethane Foam Mount
+
+* Polyurethane Foam Gasket Mount
+  
+  
+### Parts List ###
  Effective Typing Height: 22.5mm
