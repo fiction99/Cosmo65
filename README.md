@@ -1,7 +1,7 @@
 # Cosmo65
 A space themed stacked acrylic custom mechanical keyboard.
 
-![alt text](https://github.com/fiction99/Cosmo65/blob/main/Photos/4%20-%20Aav54LW.jpg?rae=true)
+![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/photo4.jpg?rae=true)
 
 Prototype Photos: https://imgur.com/a/sJrSHMh
 
@@ -13,7 +13,12 @@ Render Gallery: https://imgur.com/a/AUimohz
 
 * Stacked Acrylic 65% Profile Case
 * Polyurethane Foam Gasket Mount
+* Typing Angle: 5 degrees
 * Effective Typing Height: 22.5mm
+* Compatible with ISO standards, stepped caps lock, and split spacebar.
+
+![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/cosmo65layout.png?rae=true)
+
   
 ### Parts List ###
 * 8 main case pieces 
