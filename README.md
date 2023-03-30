@@ -13,12 +13,10 @@ Render Gallery: https://imgur.com/a/Cd0RJOx
 
 * Full Aluminum 65% Profile Case
 * Leaf Spring Top Mount
+* Engraved Brass Weight and Badge
 * Typing Angle: 7.5 degrees
 * Effective Typing Height: 22.5mm
-* Compatible with ISO layouts, stepped caps lock, and split spacebar.
-
-![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/cosmo65layout.png?rae=true)
-
+* Compatible with Bakeneko65 PCB
   
 ### Kit Components ###
 * x1 Top Case
