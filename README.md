@@ -21,18 +21,18 @@ Render Gallery: https://imgur.com/a/Cd0RJOx
 
   
 ### Kit Components ###
-x1 Top Case
-x1 Bottom Case
-x1 Badge
-x1 Exterior Weight
-x7 Force Break Pads
-x1 Carrying Case
-O rings (if testing is successful)
+* x1 Top Case
+* x1 Bottom Case
+* x1 Badge
+* x1 Exterior Weight
+* x7 Force Break Pads
+* x1 Carrying Case
+* O rings (if testing is successful)
 
-Screws List
-daughterboard: 4 of m2x5mm 
-badge: 1 of m2x5mm 
-weight: 2 of m3x6mm countersunk
-case: 8 of m2.5x12mm
-plate: 6 of m2.5x6mm
+### Screws List ###
+* daughterboard: 4 of m2x5mm 
+* badge: 1 of m2x5mm 
+* weight: 2 of m3x6mm countersunk
+* case: 8 of m2.5x12mm
+* plate: 6 of m2.5x6mm
 
