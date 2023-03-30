@@ -1,32 +1,38 @@
 # Cosmo65
 A space themed stacked acrylic custom mechanical keyboard.
 
-![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/photo4.jpg?rae=true)
+![alt text](https://github.com/fiction99/Violet65/blob/main/media/IMG_3101.jpg)
 
 Prototype Photos: https://imgur.com/a/sJrSHMh
 
-Review Video: https://www.youtube.com/watch?v=l8Ee8bL7bH8
+Soundtest: https://www.youtube.com/watch?v=9TiAsqOM6IA
 
-Render Gallery: https://imgur.com/a/AUimohz
+Render Gallery: https://imgur.com/a/Cd0RJOx
 
 ### Technical Specifications ###
 
-* Stacked Acrylic 65% Profile Case
-* Polyurethane Foam Gasket Mount
-* Typing Angle: 5 degrees
+* Full Aluminum 65% Profile Case
+* Leaf Spring Top Mount
+* Typing Angle: 7.5 degrees
 * Effective Typing Height: 22.5mm
-* Compatible with ISO standards, stepped caps lock, and split spacebar.
+* Compatible with ISO layouts, stepped caps lock, and split spacebar.
 
 ![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/cosmo65layout.png?rae=true)
 
   
-### Parts List ###
-* 8 main case pieces 
-* 3 feet pieces (angles the keyboard)
-* 1 FR4 Plate
-* 1 PCB
-* 16 foam gaskets 
-* 16 M2x8mm screws
-* 8 standoffs (4 are M2x10mm, 4 are M2x20mm)
-* 1 EVA plate foam
-* 4 silicone feet
+### Kit Components ###
+x1 Top Case
+x1 Bottom Case
+x1 Badge
+x1 Exterior Weight
+x7 Force Break Pads
+x1 Carrying Case
+O rings (if testing is successful)
+
+Screws List
+daughterboard: 4 of m2x5mm 
+badge: 1 of m2x5mm 
+weight: 2 of m3x6mm countersunk
+case: 8 of m2.5x12mm
+plate: 6 of m2.5x6mm
+
