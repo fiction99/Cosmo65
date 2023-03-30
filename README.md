@@ -3,7 +3,7 @@ A space themed stacked acrylic custom mechanical keyboard.
 
 ![alt text](https://github.com/fiction99/Violet65/blob/main/media/IMG_3101.jpg)
 
-Prototype Photos: https://imgur.com/a/sJrSHMh
+Prototype Photos: https://imgur.com/a/r122pqn
 
 Soundtest: https://www.youtube.com/watch?v=9TiAsqOM6IA
 
