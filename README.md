@@ -18,7 +18,7 @@ Build Guide:
 * Typing Angle: 7.5 degrees
 * Effective Typing Height: 22.5mm
 * Compatible with Bakeneko65 PCB
-* PCB: RGB LED underglow, VIA/QMK support, flex cuts, split spacebar and lshift, ISO enter, stepped caps lock compatibility
+* PCB: RGB LED underglow, VIA/QMK support, flex cuts, split spacebar and lshift, ISO enter, stepped caps lock
 
   
 ### Kit Components ###
