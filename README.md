@@ -1,7 +1,7 @@
 # Cosmo65
 A space themed stacked acrylic custom mechanical keyboard.
 
-![alt text](https://github.com/fiction99/Violet65/blob/main/media/IMG_3101.jpg)
+![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/photo1.jpg)
 
 Prototype Photos: https://imgur.com/a/r122pqn
 
