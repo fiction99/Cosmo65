@@ -9,7 +9,7 @@ Review Video: https://www.youtube.com/watch?v=l8Ee8bL7bH8
 
 Render Gallery: https://imgur.com/a/AUimohz
 
-Build Guide: ![Link Here](https://github.com/fiction99/Cosmo65/blob/main/media/Cosmo65_Build_Guide.pdf)
+Build Guide: https://github.com/fiction99/Cosmo65/blob/main/media/Cosmo65_Build_Guide.pdf
 
 
 ### Technical Specifications ###
